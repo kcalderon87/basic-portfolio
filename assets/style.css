@@ -1,0 +1,151 @@
+body {
+	background-image: url("../images/seigaiha.png");
+}
+
+.title {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	background: #4aaaa5;
+	padding: 20px;
+	color: #fff;
+	width: 20%;
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 20px;
+
+}
+
+.mainHeader {
+	background: #fff;
+	padding: 20px;
+	background: #fff;
+	color: #dddddd;
+	width: 80%;
+	text-align: right;
+
+}
+
+.secondTitle {
+	clear: both;
+	color: #4aaaa5;
+	padding: 20px;
+	
+
+}
+
+.socialBox {
+	background: #fff;
+	color: #4aaaa5;
+	border: 1px solid #cccccc;
+	width: 30%;
+	padding: 10px;
+	float: right;
+	margin-right: 50px;
+	margin-bottom: 50px;
+
+}
+
+.bioPic {
+	width: 200px;
+	height: 200px;
+}
+
+img {
+	width: 70px;
+	height: 70px;
+}
+
+.content {
+	background: #fff;
+}
+
+label {
+	display:block;
+	margin-top:20px;
+	letter-spacing: 2px;
+
+}
+
+/* Center the page */
+.body {
+	display: block;
+	margin:0 auto;
+	width:576px;
+}
+
+/*Center the form within the page */ {
+	margin: 0 auto;
+	width: 459px;
+}
+
+/* Style the text boxes */
+input, textarea {
+	width: 439px;
+	height: 27px;
+	background: #efefef;
+	border: 1px solid #dedede;
+	padding: 10px;
+	margin-top: 3px;
+	font-size: 0.9em;
+	color: #3a3a3a;
+}
+
+textarea {
+	height: 213px;
+}
+
+input, textarea {
+	width: 439px;
+	height: 27px;
+	background: #efefef;
+	border: 1px solid #dedede;
+	padding: 10px;
+	margin-top: 3px;
+	font-size: 0.9em;
+	color: #3a3a3a;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+input: focus, textarea:focus {
+	border: 1px solid #97d6eb;
+}
+
+#submit {
+	width: 127px;
+	height: 38px;
+	background: #4aaaa5;
+	border: none;
+	margin-top: 20px;
+	cursor: pointer;
+	color: #fff;
+	font-family: Arial;
+}
+
+		#submit: hover {
+			opacity: .9;
+		}
+
+.portfolioImages {
+	background: #fff;
+}
+
+.portfolioIcons {
+	width: 200px;
+	height: 200px;
+	float:left;
+}
+
+.portfolioTitles {
+	background: #4aaaa5;
+	color: #fff;
+}
+
+.footer {
+	background: #666666;
+	color: #fff;
+	clear:both;
+	text-align: center;
+	padding: 50px;
+
+}
